@@ -101,17 +101,10 @@ This script establishes a socket connection, and calls the procedure `ROS_receiv
 
 ### 2.1.2 f-) ROS_motion
 
-
+This script executes the trajectory.
 
 ---
 
 ## ROS Server Setup On YuMi Using RobotStudio
 
 This [Wiki](https://github.com/ethz-asl/yumi/wiki/Setting-Up-YuMi-in-RobotStudio), and this [Handbook](https://www.researchgate.net/publication/344386051_HandBook_Guidance_on_the_programming_of_ABB_YuMi_IRB_14000) explain the setup in well manner.
-
-However, the final configuration will look like this:
-
-![](Tasks.PNG)
-
-![](AutoLoad.PNG)
-
